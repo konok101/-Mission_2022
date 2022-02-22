@@ -1,0 +1,150 @@
+.body{
+    width: 100%;
+    height: 100%;
+}
+
+.mission-parrt{
+    display: flex;
+    margin: 60px;
+}
+
+span{
+    color: orange;
+}
+.half_part_for_mission{
+    width: 40%;
+}
+.half_part_for_mission p{
+    margin-bottom: 30px;
+}
+
+.Border_for_focus_part{
+    border-left: 3px solid;
+    border-color: orange;
+}
+
+.explore_button {
+     text-decoration: none;
+     background: #FF5959;
+
+     color: aliceblue;
+     padding: 13px;
+     width: 172px;
+     
+     margin-top: 10px;
+     
+}
+
+.ptag{
+    margin-top: 30px;
+}
+.half_part_for_mission img{
+  position: absolute;
+    width: 326px;
+    height: 423px;
+    left: 777px;
+    margin-top: -80px;
+    
+
+}
+
+
+/* my mission part started */
+
+.my_mission_22{
+    text-align: center;
+ margin-top: 150px;
+}
+
+.my_mission_part{
+    display: flex;
+    margin: 60px;
+   margin-top: 27px;
+}
+.my_mission_part img{
+    width: 141px;
+    height: 141px;
+}
+.misson_part{
+   
+    padding-left: 15px;
+    width:  30%;
+     height: 376px;
+     background: rgba(79, 157, 166, 0.1);
+border-radius: 26px;
+}
+.vision_part{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 8px;
+    margin-right: 8px;
+
+  
+ 
+background: rgba(255, 89, 89, 0.1);
+border-radius: 26px;
+
+ 
+}
+.Goals_part{
+    width: 30%;
+    padding-left: 15px;
+    background: #FFF4D6;
+    border-radius: 26px;
+}
+
+
+
+/* develop_part_started */
+.develop_part{
+    display: flex;
+    margin: 60px;
+}
+
+.Global_community_part{
+    width: 621px;
+    height: 312px;
+    margin-right: 106px;
+}
+.develop_img{
+    height: 400px;
+    width: 400px;
+}
+
+
+ 
+ 
+.develop_limits{
+    margin-left: 62px;
+    width: 654px;
+    height: 311px;
+   
+}
+
+/* application part */
+#Build_part{
+    text-align: center;
+}
+
+#app_img{
+    width: 338px;
+    height: 542px;
+}
+.stay_safe_part{
+    width: 525px;
+    height: 333px;
+    margin-left: 165px;
+    margin-top: 155px;
+}
+#globalCommity{
+    margin-left: 60px;
+}
+
+.footer_part{
+    width: 100%;
+    height: 177px;
+    background-color: black;
+    color: #FFF4D6;
+    text-align: center;
+
+}
